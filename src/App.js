@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Bye React Kit :)!!!
+          On the new branch Feature!
         </p>
         <a
           className="App-link"
